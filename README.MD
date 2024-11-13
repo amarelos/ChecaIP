@@ -15,6 +15,6 @@ Execução multipla. Neste caso é necessario informar um arquivo com endereços
 ```
 Opções:
 python3 checaip.py -u <Endereço IP> 
--u, --ip	"Endereço IP a ser consultado."
--f, --file "Arquivo contendo uma lista de IPs (um por linha)"
+-u, --ip  "Endereço IP a ser consultado."
+-f, --file  "Arquivo contendo uma lista de IPs (um por linha)"
 ```
